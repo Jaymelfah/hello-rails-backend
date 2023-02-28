@@ -27,12 +27,12 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# Blog App <a name="about-project"></a>
+# Hello Rails Backend <a name="about-project"></a>
 
 
 **Hello Rails Backend** is a rails API which generates a random greetings. This is the backend of the application.
 
-The front end is located in this repo ()
+The front end is located in this repo (https://github.com/Jaymelfah/hello-react-front-end.git)
 
 ## 🛠 Built With <a name="built-with"></a>
 
